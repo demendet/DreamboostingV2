@@ -1,0 +1,22 @@
+{
+  "name": "db2",
+  "version": "1.0.0",
+  "description": "Dreamboosting V2 Reworked",
+  "main": "index.html",
+  "scripts": {
+    "test": "hey"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demendet/DreamboostingV2.git"
+  },
+  "keywords": [
+    "DB"
+  ],
+  "author": "Mattis Strømeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demendet/DreamboostingV2/issues"
+  },
+  "homepage": "https://github.com/demendet/DreamboostingV2#readme"
+}
